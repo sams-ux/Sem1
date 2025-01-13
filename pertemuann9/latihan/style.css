@@ -1,0 +1,8 @@
+p {
+    border: double rgb(207, 248, 146);
+}
+h1 {
+    color: rgb(72, 16, 112);
+    border: dashed rgb(155, 30, 30);
+    padding: 1em;
+}
